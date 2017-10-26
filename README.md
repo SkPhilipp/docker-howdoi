@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Dockerized [Howdoi](https://github.com/EmileVauge/howdoi)
+Dockerized <a href="https://github.com/EmileVauge/howdoi">Howdoi</a>
 </h1>
 
 ```bash
