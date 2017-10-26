@@ -6,13 +6,17 @@
 Dockerized <a href="https://github.com/EmileVauge/howdoi">Howdoi</a>
 </h1>
 
+## Setup
 ```bash
 git clone https://github.com/SkPhilipp/docker-howdoi.git
 docker build -t howdoi .
 alias howdoi="docker run howdoi"
+```
+## Run
+```bash
 howdoi multiline cat -n4
 ```
-
+## Results
 ```
 --- Answer 1 ---
 <<[-]word
