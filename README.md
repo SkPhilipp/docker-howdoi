@@ -8,8 +8,8 @@ Dockerized <a href="https://github.com/EmileVauge/howdoi">Howdoi</a>
 
 ## Setup
 ```bash
-docker pull skphilipp/docker-howdoi
-alias howdoi="docker run skphilipp/docker-howdoi"
+docker pull skphilipp/howdoi
+alias howdoi="docker run skphilipp/howdoi"
 ```
 ## Run
 ```bash
